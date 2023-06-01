@@ -13,17 +13,14 @@ Diversity & Inclusion
 To explore the completed tasks, follow these steps:
 
 1. Prerequisites:
-
 Ensure that you have Power BI Desktop installed on your machine.
 Download or clone the repository to your local system.
 
 2. Task Descriptions:
-
 Each task is organized into separate folders, namely "Call Centre Trends," "Customer Retention," and "Diversity & Inclusion."
 Navigate to the respective folder to find the Power BI files (.pbix) related to each task.
 
 3. Power BI Visualization:
-
 Open Power BI Desktop and load the corresponding .pbix file for the desired task.
 Explore the interactive dashboards and visualizations created using Power BI.
 Utilize the provided DAX queries to understand the calculations and measures behind the visualizations.
